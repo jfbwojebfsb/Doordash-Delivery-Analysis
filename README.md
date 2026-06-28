@@ -1,2 +1,16 @@
 # Doordash-Delivery-Analysis
 Excel-based data analysis project exploring DoorDash customer preferences, regional performance, and operational insights using PivotTables and data visualization.
+Tools Used: 
+Microsoft Excel, PivotTables, Pivot Charts, Data Visualization.
+Interesting Findings:
+- New York City represented **28.31%** of the total market share. Here Mexican and American cuisines dominated.
+- Chicago represented **23.67%** of the market. Pizza, Mexican, and Chinese cuisines showed the highest demand.
+- San Francisco represented **18.70%** of the market. American food and pizza were the most requested categories.
+- Customer cuisine preferences varied significantly across regions.
+Business implication:
+- Increase promotions and recruit additional Mexican and American restaurants in New York City.
+- Focus marketing campaigns in Chicago on Pizza, Mexican, and Chinese cuisine.
+- Increase advertising efforts in lower-performing cities such as Seattle.
+- Develop loyalty programs for returning customers in major markets.
+
+Excel workbook contains the full analysis.
